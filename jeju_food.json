@@ -1,0 +1,62 @@
+{
+  "region": "제주특별자치도",
+  "topic": "제주 먹거리·특산물",
+  "items": [
+    { "name": "흑돼지구이", "category": "음식", "description": "제주 흑돼지 오겹살·근고기를 구워 먹는 요리", "score": 88, "selected": true, "source": "" },
+    { "name": "돔베고기", "category": "음식", "description": "삶은 돼지고기를 도마(돔베)에 썰어 내는 요리", "score": 76, "selected": false, "source": "" },
+    { "name": "고기국수", "category": "음식", "description": "돼지 사골 육수에 면과 수육을 올린 국수", "score": 92, "selected": true, "source": "" },
+    { "name": "몸국", "category": "음식", "description": "모자반(몸)을 넣고 돼지 육수로 끓인 국", "score": 71, "selected": false, "source": "" },
+    { "name": "접짝뼈국", "category": "음식", "description": "돼지 등뼈로 끓인 국", "score": 58, "selected": false, "source": "" },
+    { "name": "제주식 순대", "category": "음식", "description": "돼지 창자에 메밀·채소 등을 넣어 만든 순대", "score": 64, "selected": false, "source": "" },
+    { "name": "꿩메밀칼국수", "category": "음식", "description": "꿩 육수에 메밀 칼국수를 만 향토 음식", "score": 69, "selected": false, "source": "" },
+    { "name": "갈치조림", "category": "음식", "description": "무와 함께 양념에 조린 제주 갈치", "score": 85, "selected": true, "source": "" },
+    { "name": "갈치구이", "category": "음식", "description": "제주 갈치를 통째로 구운 요리", "score": 83, "selected": true, "source": "" },
+    { "name": "갈칫국", "category": "음식", "description": "늙은 호박을 넣고 끓인 맑은 갈치국", "score": 66, "selected": false, "source": "" },
+    { "name": "각재기국", "category": "음식", "description": "전갱이(각재기)를 배추와 함께 끓인 국", "score": 61, "selected": false, "source": "" },
+    { "name": "고등어회", "category": "음식", "description": "신선한 제주 고등어를 회로 먹는 요리", "score": 74, "selected": false, "source": "" },
+    { "name": "자리물회", "category": "음식", "description": "자리돔을 넣은 시원한 제주식 물회", "score": 80, "selected": true, "source": "" },
+    { "name": "한치물회", "category": "음식", "description": "한치를 넣은 시원한 물회", "score": 72, "selected": false, "source": "" },
+    { "name": "옥돔구이", "category": "음식", "description": "제주 대표 생선 옥돔을 구운 요리", "score": 87, "selected": true, "source": "" },
+    { "name": "성게미역국", "category": "음식", "description": "성게알을 넣고 끓인 미역국", "score": 63, "selected": false, "source": "" },
+    { "name": "전복죽", "category": "음식", "description": "제주 전복을 넣어 끓인 죽", "score": 79, "selected": false, "source": "" },
+    { "name": "보말칼국수", "category": "음식", "description": "바다 고둥(보말)을 넣고 끓인 칼국수", "score": 67, "selected": false, "source": "" },
+    { "name": "해물뚝배기", "category": "음식", "description": "제주 해산물을 넣고 끓인 뚝배기 요리", "score": 78, "selected": false, "source": "" },
+    { "name": "멜튀김", "category": "음식", "description": "멸치(멜)를 통째로 튀긴 요리", "score": 55, "selected": false, "source": "" },
+
+    { "name": "빙떡", "category": "전통 간식", "description": "메밀 전병에 무나물을 넣고 만 떡", "score": 90, "selected": true, "source": "" },
+    { "name": "오메기떡", "category": "전통 간식", "description": "차조(오메기)로 만든 제주 떡", "score": 95, "selected": true, "source": "" },
+    { "name": "상애떡", "category": "전통 간식", "description": "막걸리로 부풀려 쪄 낸 제주식 증편", "score": 68, "selected": false, "source": "" },
+
+    { "name": "감귤초콜릿", "category": "가공식품", "description": "감귤 모양과 맛을 살린 초콜릿 기념품", "score": 77, "selected": false, "source": "" },
+    { "name": "감귤청", "category": "가공식품", "description": "감귤을 설탕에 절여 만든 청", "score": 70, "selected": false, "source": "" },
+    { "name": "제주 녹차", "category": "가공식품", "description": "제주 차밭에서 재배한 녹차 제품", "score": 60, "selected": false, "source": "" },
+    { "name": "유채꿀", "category": "가공식품", "description": "제주 유채꽃에서 얻은 꿀", "score": 84, "selected": true, "source": "" },
+
+    { "name": "오메기술", "category": "술", "description": "오메기떡을 발효시켜 빚은 제주 전통주", "score": 52, "selected": false, "source": "" },
+    { "name": "고소리술", "category": "술", "description": "고소리(전통 증류기)로 내린 제주 전통 증류주", "score": 59, "selected": false, "source": "" },
+    { "name": "한라산 소주", "category": "술", "description": "제주에서 만든 대표 소주", "score": 73, "selected": false, "source": "" },
+
+    { "name": "감귤", "category": "과일", "description": "제주를 대표하는 온주밀감", "score": 98, "selected": true, "source": "" },
+    { "name": "한라봉", "category": "과일", "description": "꼭지 모양이 특징인 달고 향이 진한 만감류", "score": 89, "selected": true, "source": "" },
+    { "name": "천혜향", "category": "과일", "description": "향이 좋고 껍질이 얇은 만감류", "score": 81, "selected": true, "source": "" },
+    { "name": "레드향", "category": "과일", "description": "붉은빛이 돌고 당도가 높은 만감류", "score": 86, "selected": true, "source": "" },
+    { "name": "황금향", "category": "과일", "description": "껍질이 노랗고 과즙이 많은 만감류", "score": 65, "selected": false, "source": "" },
+    { "name": "카라향", "category": "과일", "description": "껍질이 얇고 달콤한 만감류", "score": 57, "selected": false, "source": "" },
+    { "name": "청귤", "category": "과일", "description": "덜 익은 초록빛 귤로 청이나 차에 쓰임", "score": 62, "selected": false, "source": "" },
+    { "name": "하귤", "category": "과일", "description": "여름에 수확하는 큰 신맛 감귤류(여름밀감)", "score": 82, "selected": true, "source": "" },
+    { "name": "백향과", "category": "과일", "description": "새콤달콤한 열대 과일(패션프루트)", "score": 75, "selected": false, "source": "" },
+
+    { "name": "구좌 당근", "category": "농산물", "description": "구좌읍에서 많이 재배하는 제주 당근", "score": 91, "selected": true, "source": "" },
+    { "name": "월동무", "category": "농산물", "description": "겨울을 나며 달게 자란 제주 무", "score": 56, "selected": false, "source": "" },
+    { "name": "대정 마늘", "category": "농산물", "description": "대정 지역에서 재배하는 제주 마늘", "score": 94, "selected": true, "source": "" },
+    { "name": "우도 땅콩", "category": "농산물", "description": "우도에서 재배하는 고소한 땅콩", "score": 53, "selected": false, "source": "" },
+    { "name": "메밀", "category": "농산물", "description": "빙떡·국수·칼국수 등에 쓰이는 제주 메밀", "score": 97, "selected": true, "source": "" },
+    { "name": "고사리", "category": "농산물", "description": "봄철 들판에서 채취하는 제주 고사리", "score": 54, "selected": false, "source": "" },
+    { "name": "표고버섯", "category": "농산물", "description": "제주에서 재배하는 향이 좋은 버섯", "score": 100, "selected": true, "source": "" },
+
+    { "name": "전복", "category": "수산물", "description": "해녀가 채취하거나 양식하는 제주 전복", "score": 93, "selected": true, "source": "" },
+    { "name": "소라", "category": "수산물", "description": "제주 바다에서 잡는 대표 해산물", "score": 51, "selected": false, "source": "" },
+    { "name": "오분자기", "category": "수산물", "description": "전복과 비슷하지만 작은 제주 조개류", "score": 96, "selected": true, "source": "" },
+    { "name": "톳", "category": "수산물", "description": "톳밥·무침 등에 쓰이는 해조류", "score": 50, "selected": false, "source": "" }
+  ]
+}
